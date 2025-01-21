@@ -1,5 +1,7 @@
 # Learning notes
 
+
+
 ## JWT Pizza code study and debugging
 
 As part of `Deliverable ⓵ Development deployment: JWT Pizza`, start up the application and debug through the code until you understand how it works. During the learning process fill out the following required pieces of information in order to demonstrate that you have successfully completed the deliverable.
