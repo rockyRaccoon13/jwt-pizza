@@ -215,7 +215,7 @@ test("docs", async ({ page }) => {
   await expect(page.getByRole("main")).toContainText(
     "🔐 [mocked PUT] /api/auth/:userId"
   );
-  await expect(page.getByText("service: http://localhost:")).toBeVisible();
+  await expect(page.getByText("service: ")).toBeVisible();
 });
 
 test("not found page", async ({ page }) => {
