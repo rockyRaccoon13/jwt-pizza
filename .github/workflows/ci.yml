@@ -55,7 +55,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: staging
-      url: https://stage-pizza.jwtpizza.click
+      url: https://stage-pizza.pizzajwt.click
     env:
       version: ${{needs.build.outputs.version}}
     steps:
