@@ -1,4 +1,5 @@
 name: Production release
+
 on:
   workflow_dispatch:
     inputs:
